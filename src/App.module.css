@@ -1,0 +1,27 @@
+.app {
+  display: block;
+  margin: 10px 0 0 20px;
+}
+
+.input {
+  width: 350px;
+  margin-top: 5px;
+  height: 20px;
+}
+
+.radio {
+  margin: 10px 0;
+}
+
+.inputRadio {
+  margin-right: 10px;
+}
+
+.checkbox {
+  margin-bottom: 10px;
+}
+
+.hr {
+  margin-left: 0;
+  width: 500px;
+}
